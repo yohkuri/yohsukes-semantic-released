@@ -22,14 +22,14 @@
   },
   "homepage": "https://github.com/yohsuke-kurita/yohsukes-semantic-released#readme",
   "devDependencies": {
-    "@commitlint/cli": "^16.2.4",
+    "@commitlint/cli": "^17.6.1",
     "@commitlint/config-conventional": "^16.2.4",
-    "@commitlint/cz-commitlint": "^16.2.4",
+    "@commitlint/cz-commitlint": "^17.5.0",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^7.0.0",
-    "semantic-release": "^19.0.2"
+    "semantic-release": "^21.0.1"
   },
   "config": {
     "commitizen": {
